@@ -1,0 +1,1 @@
+<a href="/solo">solo</a>
